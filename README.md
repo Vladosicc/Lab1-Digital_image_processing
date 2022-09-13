@@ -33,3 +33,26 @@ RB). Маска должна накладываться на центр изоб
 установленным настройкам всех картинок. Размер изображений может быть любым.
 
 upd: оценка 54/54
+
+# Пример работы программы
+Добавить изображение:
+- File->Open
+- Drag'n'drop
+- Из буфера обмена Edit->Paste
+
+![plot](https://github.com/Vladosicc/Lab1-Digital_image_processing/blob/main/images/1.png)
+
+По кнопке результат программа выполняет все операции со списком изображений снизу вверх
+![plot](https://github.com/Vladosicc/Lab1-Digital_image_processing/blob/main/images/2.png)
+
+Сохранить результат можно в файл (File->Save) или в буфер обмена (Edit->Copy)
+
+Список операций:
+
+![plot](https://github.com/Vladosicc/Lab1-Digital_image_processing/blob/main/images/3.png)
+
+Список цветовых каналов:
+
+![plot](https://github.com/Vladosicc/Lab1-Digital_image_processing/blob/main/images/4.png)
+
+У каждого изображения можно регулировать прозрачность слайдером
